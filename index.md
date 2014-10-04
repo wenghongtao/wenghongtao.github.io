@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: 世界是你的，世界也是我的。
+title: 翁洪涛github博客
+tagline: 我的代码，我的世界。
 ---
 {% include JB/setup %}
     
