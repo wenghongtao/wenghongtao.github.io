@@ -98,7 +98,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : wenghongtao
+    provider : disqus
     disqus :
       short_name : wenghongtao
     livefyre :
