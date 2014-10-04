@@ -12,10 +12,10 @@ Leon/翁洪涛
 ***
 
 ### 如何找到我：  
-Email: wenghogntao@gmail.com
-QQ:583674718
-blog:http://www.LeonCode.com  
-GitHub: https://github.com/wenghongtao
+* Email: wenghogntao@gmail.com
+* QQ:583674718
+* blog:http://www.LeonCode.com  
+* GitHub: https://github.com/wenghongtao
 
 ***
 ### 给我留言：
