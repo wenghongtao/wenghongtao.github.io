@@ -2,18 +2,20 @@
 layout: page
 title: 关于
 header: Post About
-tagline: Xaolex
+tagline: Leon
 ---
 {% include JB/setup %}
 
 
 ***
-Xaolex/袁效宁
+Leon/翁洪涛
 ***
 
 ### 如何找到我：  
-Email: xaolex@gmail  
-GitHub: https://github.com/Xaolex
+Email: wenghogntao@gmail.com
+QQ:583674718
+blog:http://www.LeonCode.com  
+GitHub: https://github.com/wenghongtao
 
 ***
 ### 给我留言：
