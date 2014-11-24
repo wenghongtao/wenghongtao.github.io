@@ -47,7 +47,7 @@ tags: [BlogBook]
 　1. 熟练掌握JAVA面向对象编程语言，有良好的编码习惯；  
 　2. 熟练使用HTML，并了解Ajax  
 　3. 熟练使用jsp、servlet、JavaBean进行web应用开发；  
-　4. 熟练掌握Struts2、Hibernate、Spring等开源框架技术，并能够用Struts2.0+Hibernate+Spring进行大型项目的开发；
+　4. 熟练掌握Struts2、Hibernate、Spring等开源框架技术，并能够用Struts2.0+Hibernate+Spring进行大型项目的开发；  
 　5. 熟练操作MySQL数据库,了解Oracle数据库，熟悉SQL语句；  
 　6. 能够熟练运用Eclipse和myEclipse等开发工具；  
  7. 熟练掌握php，C#等编程语言，开发过商城，订餐等系统。  
