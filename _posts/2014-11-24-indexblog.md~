@@ -14,9 +14,9 @@ tags: [BlogBook]
 * 联系电话：189—7089—0856
 * E-mail：583674718@qq.com
 * 求职意向：Java工程师
-* github主页：[http://wenghongtao.github.io](http://wenghongtao.github.io/)
-* github仓库：[https://github.com/wenghongtao](https://github.com/wenghongtao)
-* 个人博客网址：[http://www.leoncode.com](http://www.leoncode.com)
+* github主页：<a href="http://wenghongtao.github.io" target="_blank">http://wenghongtao.github.io</a>
+* github仓库：<a href="https://github.com/wenghongtao" target="_blank">https://github.com/wenghongtao</a>
+* 个人博客网址：<a href="http://www.leoncode.com" target="_blank">http://www.leoncode.com</a>
 
 
 ------------
@@ -31,8 +31,9 @@ tags: [BlogBook]
 1. 权限模块：实现了增删查改等功能  
 2. 客户账单模块：实现了增删查改、报表导出等功能  
 3. 登录模块：实现了用户登录  
-4. 打印模块：实现了报表打印，预览功能5. 还有就是其他模块中的一些后期修改
-* 项目总结：通过这个项目的开发，对extjs框架有里深刻了解。增强了团队意识和协调能力。也认识到学习的重要性，软件行业技术更新的很快，每天都要去努力的学习新知识。*  预览网址：www.jxncqq.com/ticketClearing (由于版权问题,仅限内部测试，不能用于其他商业用途，版权归个人及团队所有)
+4. 打印模块：实现了报表打印，预览功能5. 还有就是其他模块中的一些后期修改  
+* 项目总结：通过这个项目的开发，对extjs框架有里深刻了解。增强了团队意识和协调能力。也认识到学习的重要性，软件行业技术更新的很快，每天都要去努力的学习新知识。  
+* 预览网址：<a href="http://www.jxncqq.com/ticketClearing" target="_blank">http://www.jxncqq.com/ticketClearing</a>(由于版权问题,仅限内部测试，不能用于其他商业用途，版权归个人及团队所有)  
 
 ------------
 
@@ -42,7 +43,7 @@ tags: [BlogBook]
 * 项目描述：房介之星ERP管理系统，是面向房产中介系统.  
 * 责任描述：参与模块的设计，编码工作  
 * 项目总结：通过这个项目的开发，对大型软件大开发和架构有更深的认识。  
-* 预览网址：<www.jxncqq.com/hdhouse> (由于版权问题,仅限内部测试，不能用于其他商业用途，版权归个人及团队所有)  
+* 预览网址：<a href="http://www.jxncqq.com/hdhouse" target="_blank">http://www.jxncqq.com/hdhouse</a>(由于版权问题,仅限内部测试，不能用于其他商业用途，版权归个人及团队所有)  
 
 ------------
 
@@ -52,7 +53,7 @@ tags: [BlogBook]
 　3. 熟练使用jsp、servlet、JavaBean进行web应用开发；  
 　4. 熟练掌握Struts2、Hibernate、Spring等开源框架技术，并能够用Struts2.0+Hibernate+Spring进行大型项目的开发；  
 　5. 熟练操作MySQL数据库,了解Oracle数据库，熟悉SQL语句；  
-　6. 能够熟练运用Eclipse和myEclipse等开发工具。  
+　6. 能够熟练运用Eclipse和myEclipse等开发工具；  
  7. 熟练掌握php，C#等编程语言，开发过商城，订餐等系统。  
 
 
