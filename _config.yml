@@ -3,10 +3,10 @@
 permalink: /blog/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-pygments: true
+            pygments: true
 
-encoding: utf-8
-markdown: rdiscount
+            encoding: utf-8
+            markdown: rdiscount
 
 navigation:
 - text: 目录
