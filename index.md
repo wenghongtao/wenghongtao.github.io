@@ -11,9 +11,10 @@ tagline: 我的代码，我的世界。
 ## <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
 
 <span>{{ post.date | date_to_string }}</span>  <span><a href="{{ BASE_PATH }}categories.html#{{ post.category}}-ref">{{ post.category }}</a></span>
-
-//{{ post.content }}
-
+```
+注释
+{{ post.content }}
+```
 ***
 {% endfor %}
 
