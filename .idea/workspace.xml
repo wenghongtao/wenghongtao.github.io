@@ -59,7 +59,11 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="92">
+<<<<<<< HEAD
                 <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+=======
+                <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,7 +85,11 @@
         <entry file="file://$PROJECT_DIR$/rss.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
+<<<<<<< HEAD
               <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+=======
+              <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
               <folding />
             </state>
           </provider>
@@ -91,13 +99,21 @@
         <entry file="file://$PROJECT_DIR$/categories.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
+<<<<<<< HEAD
               <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+=======
+              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="pages.html" pinned="false" current-in-tab="true">
+=======
+      <file leaf-file-name="pages.html" pinned="false" current-in-tab="false">
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
         <entry file="file://$PROJECT_DIR$/pages.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -107,6 +123,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
       <file leaf-file-name="archive.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/archive.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -121,7 +150,11 @@
         <entry file="file://$PROJECT_DIR$/atom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
+<<<<<<< HEAD
               <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+=======
+              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
               <folding />
             </state>
           </provider>
@@ -231,12 +264,20 @@
       <updated>1550209607538</updated>
       <workItem from="1550209609638" duration="1209000" />
       <workItem from="1554640091164" duration="1016000" />
+<<<<<<< HEAD
       <workItem from="1554641137468" duration="1041000" />
+=======
+      <workItem from="1554641137468" duration="357000" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3266000" />
+=======
+    <option name="totallyTimeSpent" value="2582000" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,8 +290,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+<<<<<<< HEAD
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1640625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -380,6 +427,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/pages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
     <entry file="file://$PROJECT_DIR$/archive.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -391,7 +449,11 @@
     <entry file="file://$PROJECT_DIR$/atom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
+<<<<<<< HEAD
           <caret line="5" column="42" lean-forward="false" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+=======
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
           <folding />
         </state>
       </provider>
@@ -399,7 +461,11 @@
     <entry file="file://$PROJECT_DIR$/rss.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
+<<<<<<< HEAD
           <caret line="13" column="62" lean-forward="false" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+=======
+          <caret line="13" column="62" lean-forward="true" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
           <folding />
         </state>
       </provider>
@@ -407,7 +473,11 @@
     <entry file="file://$PROJECT_DIR$/categories.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
+<<<<<<< HEAD
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+=======
+          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
           <folding />
         </state>
       </provider>
@@ -430,7 +500,11 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="92">
+<<<<<<< HEAD
             <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+=======
+            <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
             <folding />
           </first_editor>
           <second_editor />
@@ -439,6 +513,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="253">
           <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
           <folding />
@@ -449,6 +524,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="115">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+>>>>>>> 4f84d635686817cc82cd3d0f2dd34887601316b5
           <folding />
         </state>
       </provider>
