@@ -7,7 +7,7 @@
 
 # Site settings
 title: 翁洪涛的博客
-brief-intro: Android and Python Coder
+brief-intro: 我的代码 我的世界
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wenghongtao.github.io" # the base hostname & protocol for your site
 
