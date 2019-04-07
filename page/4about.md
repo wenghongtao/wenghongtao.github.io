@@ -11,7 +11,8 @@ type: page
 
 ## 关于我
 
-<iframe src="https://avatars0.githubusercontent.com/u/855473?s=460&v=4" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+![Image text](https://avatars0.githubusercontent.com/u/855473?s=460&v=4)
+
 
 就职于中广核贝谷科技有限公司
 
@@ -24,7 +25,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/wenghongtao)
+* GitHub：[wenghongtao](https://github.com/wenghongtao)
 * email：583674718@qq.com
 * Weibo: [微博](https://weibo.com/u/1847016777/home)
 
