@@ -7,6 +7,7 @@ pygments: false
 
 encoding: utf-8
 markdown: kramdown
+highlighter: rouge
 
 navigation:
 - text: 目录
