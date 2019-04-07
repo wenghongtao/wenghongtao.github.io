@@ -6,7 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: false
 
 encoding: utf-8
-markdown: rdiscount
+markdown: kramdown
 
 navigation:
 - text: 目录
