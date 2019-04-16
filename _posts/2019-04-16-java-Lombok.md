@@ -34,6 +34,8 @@ Lombok主要运用了Annotation，我们先要去了解Annotation才能，更好
   1. 定义新的Annotation类型使用@interface关键字，它用于定义新的Annotation类型。定义一个新的Annotation类型与定义一个接
   口非常像，如下代码可定义一个简单的Annotation：
   
+  - 简单的注释
+  
   ```
   public @interface Login {
       
