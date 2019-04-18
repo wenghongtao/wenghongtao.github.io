@@ -62,10 +62,11 @@ pip install -U wxpy -i "https://pypi.doubanio.com/simple/"
  
  # 进入 python 命令行，让程序保持运行
  embed()
-
   ```
   
-  ## 资源
+  
+
+  - 资源
   
   1. 说明文档 : [http://wxpy.readthedocs.io](http://wxpy.readthedocs.io)
   2. 更新日志 : [https://github.com/youfou/wxpy/releases](https://github.com/youfou/wxpy/releases)
