@@ -65,7 +65,8 @@ pip install -U wxpy -i "https://pypi.doubanio.com/simple/"
 
   ```
   
-  ### 资源
+  ## 资源
+  
   1. 说明文档 : [http://wxpy.readthedocs.io](http://wxpy.readthedocs.io)
   2. 更新日志 : [https://github.com/youfou/wxpy/releases](https://github.com/youfou/wxpy/releases)
   3. 项目主页 : [https://github.com/youfou/wxpy](https://github.com/youfou/wxpy)
