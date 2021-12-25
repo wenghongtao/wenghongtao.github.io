@@ -301,3 +301,6 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 ## License
 
 [MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+
+本地执行
+jekyll serve

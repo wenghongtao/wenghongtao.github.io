@@ -1,0 +1,23 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#docker-的安装" id="markdown-toc-docker-的安装">docker 的安装</a></li>
+</ul>
+
+<p>docker 的安装</p>
+
+<h2 id="docker-的安装">docker 的安装</h2>
+<p>docker 安装分别为Linux、windows、mac</p>
+<ol>
+  <li>linux版本安装
+使用官方安装脚本自动安装
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl -fsSL https://get.docker.com | bash -s docker --mirror Aliyun
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>windows版本安装</p>
+
+    <p><a href="https://www.docker.com/products/docker-desktop">Docker Desktop官方下载地址</a></p>
+  </li>
+  <li>mac版本安装</li>
+</ol>
+
+:ET

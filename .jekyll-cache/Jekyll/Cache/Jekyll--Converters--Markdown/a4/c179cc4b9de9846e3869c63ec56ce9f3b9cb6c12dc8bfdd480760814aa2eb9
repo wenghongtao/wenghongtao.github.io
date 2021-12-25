@@ -1,0 +1,26 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#docker-的学习一" id="markdown-toc-docker-的学习一">docker 的学习（一）</a></li>
+</ul>
+
+<p>docker 的学习（一）</p>
+
+<h2 id="docker-的学习一">docker 的学习（一）</h2>
+<ol>
+  <li>创建网桥
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker network create wenght
+</code></pre></div>    </div>
+  </li>
+  <li>保存镜像
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker save -o [image].tar
+sudo docker save -o test.tar test/core:v1.2
+</code></pre></div>    </div>
+  </li>
+  <li>删除容器
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker rm -f 容器ID
+</code></pre></div>    </div>
+  </li>
+  <li>打包镜像
+sudo docker commit -a “wenght” -m “test-core” 32f4c171bb56 test/core:v2.2</li>
+</ol>
+
+:ET
