@@ -1,0 +1,33 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#学习golang最好的地方" id="markdown-toc-学习golang最好的地方">学习golang最好的地方</a></li>
+</ul>
+
+<p>go语言基础语法</p>
+
+<h2 id="学习golang最好的地方">学习golang最好的地方</h2>
+
+<p>官方网站：https://golang.org/doc/</p>
+
+<p>Hello.go</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("你好, 世界")
+}
+
+</code></pre></div></div>
+<p>测试</p>
+
+<ul>
+  <li>资源</li>
+</ul>
+
+<ol>
+  <li>说明文档 : <a href="http://wxpy.readthedocs.io">http://wxpy.readthedocs.io</a></li>
+  <li>更新日志 : <a href="https://github.com/youfou/wxpy/releases">https://github.com/youfou/wxpy/releases</a></li>
+  <li>项目主页 : <a href="https://github.com/youfou/wxpy">https://github.com/youfou/wxpy</a></li>
+</ol>
+
+:ET

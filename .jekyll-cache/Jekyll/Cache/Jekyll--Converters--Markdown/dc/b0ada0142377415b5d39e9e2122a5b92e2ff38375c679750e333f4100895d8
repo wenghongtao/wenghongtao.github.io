@@ -1,0 +1,78 @@
+I"U
+<ul id="markdown-toc">
+  <li><a href="#前提概要" id="markdown-toc-前提概要">前提概要</a>    <ul>
+      <li><a href="#源码学习" id="markdown-toc-源码学习">源码学习</a></li>
+      <li><a href="#关于java中annotation用法" id="markdown-toc-关于java中annotation用法">关于Java中Annotation用法</a>        <ul>
+          <li><a href="#1-自定义annotation" id="markdown-toc-1-自定义annotation">1. 自定义Annotation</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>Lombok学习笔记</p>
+
+<h2 id="前提概要">前提概要</h2>
+<p>学习还是主要通过官网来：https://projectlombok.org</p>
+
+<p>基本的安装就不介绍了，主要通过maven，gradle都可以，您也可以直接下载jar包，
+如果需要编辑器识别不报错的话，就要下载相应的插件。官网上install里有
+各个IEDs安装的方法，在此就不复述了。</p>
+
+<h3 id="源码学习">源码学习</h3>
+<p>GitHub仓库地址：https://github.com/rzwitserloot/lombok</p>
+
+<h3 id="关于java中annotation用法">关于Java中Annotation用法</h3>
+
+<p>Lombok主要运用了Annotation，我们先要去了解Annotation才能，更好的理解，Lombok
+是怎么自动生成get和set方法。如何自动创建构造函数</p>
+
+<h4 id="1-自定义annotation">1. 自定义Annotation</h4>
+<ol>
+  <li>定义新的Annotation类型使用@interface关键字，它用于定义新的Annotation类型。定义一个新的Annotation类型与定义一个接
+  口非常像，如下代码可定义一个简单的Annotation：</li>
+</ol>
+
+<ul>
+  <li>简单的注释</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  public @interface Login {
+      
+  }
+</code></pre></div></div>
+
+<ul>
+  <li>给annotation添加成员变量</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  public @interface Login {
+      //定义两个成员变量
+      String username();
+      String password();
+  }
+  
+  class LoginTest{
+      /**
+       * 使用注解
+       */
+      @Login(username="lisi", password="123456")
+      public void login(){
+          
+      }
+  }
+</code></pre></div></div>
+
+<p>还可以定义默认值</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  public @interface Login {
+       //定义两个成员变量
+       String username() default "wenghongtao";
+       String password() default "123456";
+   }
+</code></pre></div></div>
+
+<p>####  解读源码
+ 今天先到这里吧，我先研究一下它的源码。</p>
+
+:ET

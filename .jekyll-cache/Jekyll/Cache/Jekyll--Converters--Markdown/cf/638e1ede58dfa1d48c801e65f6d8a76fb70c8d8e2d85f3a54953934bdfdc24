@@ -1,0 +1,60 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#前言" id="markdown-toc-前言">前言</a>    <ul>
+      <li><a href="#1lombok----8小时" id="markdown-toc-1lombok----8小时">1.Lombok    （8小时）</a></li>
+      <li><a href="#2tomcat集群--32小时" id="markdown-toc-2tomcat集群--32小时">2.Tomcat集群  （32小时）</a></li>
+      <li><a href="#3redis-------------40小时" id="markdown-toc-3redis-------------40小时">3.Redis             （40小时）</a></li>
+      <li><a href="#4spring-session---15小时" id="markdown-toc-4spring-session---15小时">4.Spring Session   （15小时）</a></li>
+      <li><a href="#5spring-schedule---15小时" id="markdown-toc-5spring-schedule---15小时">5.Spring Schedule   （15小时）</a></li>
+      <li><a href="#6spring-schedule-redis--15小时" id="markdown-toc-6spring-schedule-redis--15小时">6.Spring Schedule +redis  （15小时）</a></li>
+      <li><a href="#7redisson框架---15小时" id="markdown-toc-7redisson框架---15小时">7.Redisson框架   （15小时）</a></li>
+      <li><a href="#8spring-scheduleredisson分布式锁构建分布式任务调度--30小时" id="markdown-toc-8spring-scheduleredisson分布式锁构建分布式任务调度--30小时">8.Spring Schedule+Redisson分布式锁构建分布式任务调度  （30小时）</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>先阶段需要掌握的技能</p>
+
+<h2 id="前言">前言</h2>
+
+<p>以上架构需要学习的技能：</p>
+
+<h3 id="1lombok----8小时">1.Lombok    （8小时）</h3>
+<p>官方介绍如下：
+Project Lombok makes java a spicier language by adding ‘handlers’ that know how to build and compile simple, boilerplate-free, not-quite-java code.
+大致意思是Lombok通过增加一些“处理程序”，可以让java变得简洁、快速。</p>
+
+<h3 id="2tomcat集群--32小时">2.Tomcat集群  （32小时）</h3>
+<p>知识点：学习Nginx负载均衡配置， Nginx+Tomcat搭建集群
+之间应该会蹦出很多问题，到时再一 一解决。</p>
+
+<h3 id="3redis-------------40小时">3.Redis             （40小时）</h3>
+<p>知识点：Redis基础知识和分布式缓存环境搭建，
+之前也学过redis，但是都没有真正用上，看了很多资料，由于没有实践，知识点没有贯穿起来。</p>
+
+<h3 id="4spring-session---15小时">4.Spring Session   （15小时）</h3>
+<p>知识点：这块不是很清楚，还没有了解过，需要学习之后才清楚，之前有听同事说过。
+Spring Session框架零侵入实现单点登录</p>
+
+<h3 id="5spring-schedule---15小时">5.Spring Schedule   （15小时）</h3>
+<p>知识点：学习Cron表达式
+任务调度框架，可以实现定时任务，应用场景会用到的是：下单后半个小时没有支付，自动关闭订单。</p>
+
+<h3 id="6spring-schedule-redis--15小时">6.Spring Schedule +redis  （15小时）</h3>
+<p>Spring Schedule+Redis分布式锁构建分布式任务调度
+这个用法需要学习之后才知道。</p>
+
+<h3 id="7redisson框架---15小时">7.Redisson框架   （15小时）</h3>
+<p>知识点：redisson是redis官网推荐的java语言实现分布式锁的项目
+Redisson框架的使用.</p>
+
+<h3 id="8spring-scheduleredisson分布式锁构建分布式任务调度--30小时">8.Spring Schedule+Redisson分布式锁构建分布式任务调度  （30小时）</h3>
+<p>综合应用</p>
+
+<hr />
+<p>之前的个人博客就关闭了，没啥流量，自己也没有更新过什么有技术含量的文章，大部分都是转载陈皓大神的博客文章。
+之后的学习笔记会更新到 http://wenghongtao.github.io/   省点钱。</p>
+
+<p>上面的学习时间是自己预估的，根本就不会准( ﹁ ﹁ ) ~→，会在学习笔记中记录，因为没有经验，先写个大概的时间。
+走过必会留下痕迹，留下笔记，证明自己学习过</p>
+
+:ET
