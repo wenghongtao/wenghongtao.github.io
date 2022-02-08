@@ -297,3 +297,6 @@ If there is nothing wrong, push code to your github!
 ## License
 
 [MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+
+## Local execution
+jekyll serve
